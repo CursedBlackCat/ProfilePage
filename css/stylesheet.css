@@ -22,3 +22,7 @@ footer {
     margin-bottom: 0;
     text-align: center;
 }
+
+span.bold {
+    font-weight: 700;
+}
